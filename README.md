@@ -1,4 +1,4 @@
-# sistema-de-cadastro-de-produtos-em-csharp
+# Projeto: Sistema de cadastro de produtos em C#
 
 
 ## In Portuguese
